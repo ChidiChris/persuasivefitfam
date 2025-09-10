@@ -34,13 +34,13 @@ ReactJS, NextJS, SASS
 1. Clone the project
 
 ```bash
-  git clone https://github.com/doubtcrack/Fitness.git
+  git clone https://github.com/ChidiChris/persuasivefitfam.git
 ```
 
 2. Go to the project directory
 
 ```bash
-  cd Fitness
+  cd persuasivefitfam
 ```
 
 3. Install dependencies
