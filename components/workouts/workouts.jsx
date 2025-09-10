@@ -10,6 +10,7 @@ const Workouts = () => {
           {
             title: "Yoga Training",
             subheading: "For Beginners",
+            url: "https://www.youtube.com",
             // stats: ["🧘‍♀️ 15 Min", "🔥 200 Cal"],
             image: {
               width: 250,
@@ -19,6 +20,7 @@ const Workouts = () => {
           {
             title: "Cardio Training",
             subheading: "For Intermediates",
+             url: "https://www.facebook.com",
             // stats: ["🏃‍♀️ 28 Min", "🔥 260 Cal"],
             image: {
               width: 250,
@@ -28,6 +30,7 @@ const Workouts = () => {
           {
             title: "CrossFit Training",
             subheading: "For Experts",
+             url: "https://www.medium.com",
             // stats: ["🏋️‍♀️ 14 Min", "🔥 350 Cal"],s
             image: {
               width: 250,
